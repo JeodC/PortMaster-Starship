@@ -1,0 +1,20 @@
+# Supported Star Fox 64 Versions: US, JP
+
+09f0d105f476b00efa5303a3ebc42e60a7753b7a:
+  name: Star Fox 64 (U) (V1.1) (Compressed)
+  preprocess:
+    decompress_mio0:
+      method: mio0-comptool
+      type: decompress
+      target: f7475fb11e7e6830f82883412638e8390791ab87
+      restart: true
+
+f7475fb11e7e6830f82883412638e8390791ab87:
+  name: Star Fox 64 (U) (V1.1)
+  path: assets/yaml/us/rev1
+  config:
+    gbi: F3DEX
+    sort: OFFSET
+    # logging: ERROR
+    output:
+      binary: sf64.otr
