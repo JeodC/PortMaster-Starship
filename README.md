@@ -11,6 +11,9 @@ Logs are recorded automatically as `ports/starship/log.txt`. Please provide a lo
 ## Menu Navigation
 There is a `starship.gptk` file you can use to change which button emulates F1 (default is L3). Some devices have a special button called `guide` that makes for a good F1 mapping.
 
+## Adding Mods
+Mods are available at the port's [Gamebanana Page](https://gamebanana.com/games/21612).
+
 ## Default Gameplay Controls
 The port uses SDL controller mapping and controls can be remapped from the menu bar.
 
