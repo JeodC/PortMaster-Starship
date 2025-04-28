@@ -1,5 +1,5 @@
 ## Information
-Starship was built from the `v1.0.0` tag on 12/23/2024. You can build your own binaries by following the [BUILDING.md guide](starship/BUILDING.md).
+Starship was built from GitHub Actions at the [HM64 Autobuild Factory](https://github.com/JeodC/hm64-builder).
 
 ## Installation
 The supported ROM is the USA 1.1 Rev A version. You can verify you have dumped a supported copy of the game by using the SHA-1 File Checksum Online at https://www.romhacking.net/hash/. The hash for a US 1.1 ROM is SHA-1: 09F0D105F476B00EFA5303A3EBC42E60A7753B7A.
